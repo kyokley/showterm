@@ -2,3 +2,4 @@ ext/*.o
 ext/ttyrec
 ext/ttyplay
 ext/ttytime
+pkg
