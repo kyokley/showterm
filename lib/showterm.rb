@@ -209,6 +209,6 @@ module Showterm
   end
 
   def url
-    @url ||= URI(ENV["SHOWTERM_SERVER"] || "https://showterm.herokuapp.com")
+    @url ||= URI(ENV["SHOWTERM_SERVER"] || "http://10.21.112.27:3000")
   end
 end
